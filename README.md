@@ -1,2 +1,1 @@
-# blogtorteli
-Meu blog da disciplina PPSI 2
+Esse blog faz parte da disciplina de padrões de Projetos de sitios da Internet 2.
