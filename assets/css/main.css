@@ -2,11 +2,8 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
-/*
-	Visualize by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
+
 
 /* Reset */
 
@@ -1390,7 +1387,7 @@
 
 	}
 
-/* Basic */
+/* Basico */
 
 	@-ms-viewport {
 		width: device-width;
@@ -1657,7 +1654,7 @@
 			padding: 0;
 		}
 
-/* Icon */
+/* Icones */
 
 	.icon {
 		text-decoration: none;
@@ -1710,7 +1707,7 @@
 
 			}
 
-/* Image */
+/* Imagem */
 
 	.image {
 		border-radius: 4px;
@@ -1764,7 +1761,7 @@
 				width: 100%;
 			}
 
-/* List */
+/* Lista */
 
 	ol {
 		list-style: decimal;
@@ -2047,11 +2044,11 @@
 				margin: 1em;
 			}
 			
-			/*cor da box*/
+			/*cor da box ----------------------------------------------------------------------*/
 
 			.thumbnails a:hover {
 				background-color: rgba(255, 255, 255, 0.25);
-				box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 0.5em 0 #FF6382;
+				box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 0.5em 0 #2c2c2c; 
 			}
 
 		.thumbnails > div {
